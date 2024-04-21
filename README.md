@@ -24,6 +24,11 @@ This simple system will be most suited for Government school where students don�
 4. GSM Module – Sim 800A
 5. Microcontroller – Arduino Uno Rev 3
 
+## Circuit
+
+![App Screenshot](https://github.com/Stanly-Davis/Student-Monitoring-System/blob/main/Circuit.png)
+
+
 ## Code
 
 Before Flashing the Final code into Microcontroller, we need to set up LCD, RFID and GSM
