@@ -26,7 +26,7 @@ This simple system will be most suited for Government school where students donâ
 
 ## Circuit
 
-![App Screenshot](https://github.com/Stanly-Davis/Student-Monitoring-System/blob/main/Circuit.png)
+![Circuit](https://github.com/Stanly-Davis/Student-Monitoring-System/blob/main/Circuit.png)
 
 
 ## Code
