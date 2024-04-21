@@ -31,15 +31,17 @@ Before Flashing the Final code into Microcontroller, we need to set up LCD, RFID
 1.	Setting up LCD:
 We are connecting LCD with an I2c chip which makes it easier to connect with Arduino.
 After connecting I2C chip with LCD, only four pins (Vcc, Gnd, SDA and SCL) has to be connected to Arduino.
-Below is the link to this tutorial. It is from Last Minute Engineers website
+Below is the link to this tutorial. It is from Last Minute Engineers website.
+
 https://lastminuteengineers.com/i2c-lcd-arduino-tutorial/
 
-2.	Setting Up RFID
-Below is the link for setting it up. It is explained wonderfully and in depth from Last Minute Engineers
+3.	Setting Up RFID
+Below is the link for setting it up. It is explained wonderfully and in depth from Last Minute Engineers.
+
 https://lastminuteengineers.com/how-rfid-works-rc522-arduino-tutorial/
 
 
-3.	Setting up GSM module
+5.	Setting up GSM module
 Sim800A is easy to use. It works well when we insert a 4G Airtel Sim. 3G sim dint work with this model.
 
 
