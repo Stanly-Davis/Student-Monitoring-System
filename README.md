@@ -14,9 +14,10 @@ When the student exits the school at 4pm, a SMS is sent to Guardian/Parent that 
 
 In some case, the student exits the school early, may be at 2pm/3pm, then the student might go to playground/park/roadside/Gaming center/shops/Internet Cafe or any such places and spend time there. With the help of student monitoring this can be prevented.
 
-This simple system will be most suited for Government school where students don’t maintain any discipline and bunk school very often. By tracking just, the entry/exit timings, the students will have fear that they are being tracked and gradually start maintaining discipline.
+This simple system will be most suited for Government school where students don’t maintain any discipline and bunk school very often. By tracking just the entry/exit timings, the students will have fear that they are being tracked and gradually start maintaining discipline.
 
 ## Components
+
 1. RFID RECEIVER - RC 522 RECEIVER
 2. RFID Tags
 3. LCD DISPLAY – 16 *2 Display along with a I2C chip
@@ -24,6 +25,7 @@ This simple system will be most suited for Government school where students don�
 5. Microcontroller – Arduino Uno Rev 3
 
 ## Code
+
 Before Flashing the Final code into Microcontroller, we need to set up LCD, RFID and GSM
 
 1.	Setting up LCD:
