@@ -29,6 +29,11 @@ This simple system will be most suited for Government school where students donâ
 ![Circuit](https://github.com/Stanly-Davis/Student-Monitoring-System/blob/main/Circuit.png)
 
 
+## Model
+
+![Model](https://github.com/Stanly-Davis/Student-Monitoring-System/blob/main/Model.png)
+
+
 ## Code
 
 Before Flashing the Final code into Microcontroller, we need to set up LCD, RFID and GSM
