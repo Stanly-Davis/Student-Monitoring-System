@@ -9,6 +9,7 @@ This Project tracks the entry time and exit time of School student from their ID
 Primary School students are not allowed to bring phone to school. Hence, they cannot call/message their parents that they have reached school safely. If the parents themselves are dropping their kids to school, then its fine. But if they students travel to school by Public/Private transport, cycle or by walking, then the parents/Guardian don’t know if they have safely reached the school or at what time they have left the school.
 
 In this System, whenever a student enters/exits the school, he/she has to scan their ID card. So, when the students enter school at 9 am, a SMS is sent to Guardian that student has reached the school. If the SMS has not reached, then that implies the student dint reach school, but went somewhere else.
+
 When the student exits the school at 4pm, a SMS is sent to Guardian/Parent that student has exited at 4pm. The parent/Guardian can expect that the student reaches home by 5pm if student has exited school at 4pm.
 
 In some case, the student exits the school early, may be at 2pm/3pm, then the student might go to playground/park/roadside/Gaming center/shops/Internet Cafe or any such places and spend time there. With the help of student monitoring this can be prevented.
