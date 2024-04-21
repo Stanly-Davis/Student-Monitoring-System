@@ -13,6 +13,7 @@ In this System, whenever a student enters/exits the school, he/she has to scan t
 When the student exits the school at 4pm, a SMS is sent to Guardian/Parent that student has exited at 4pm. The parent/Guardian can expect that the student reaches home by 5pm if student has exited school at 4pm.
 
 In some case, the student exits the school early, may be at 2pm/3pm, then the student might go to playground/park/roadside/Gaming center/shops/Internet Cafe or any such places and spend time there. With the help of student monitoring this can be prevented.
+
 This simple system will be most suited for Government school where students don’t maintain any discipline and bunk school very often. By tracking just, the entry/exit timings, the students will have fear that they are being tracked and gradually start maintaining discipline.
 
 ## Components
