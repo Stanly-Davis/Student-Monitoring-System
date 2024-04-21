@@ -35,13 +35,13 @@ Below is the link to this tutorial. It is from Last Minute Engineers website.
 
 https://lastminuteengineers.com/i2c-lcd-arduino-tutorial/
 
-3.	Setting Up RFID
+2.	Setting Up RFID:
 Below is the link for setting it up. It is explained wonderfully and in depth from Last Minute Engineers.
 
 https://lastminuteengineers.com/how-rfid-works-rc522-arduino-tutorial/
 
 
-5.	Setting up GSM module
+3.	Setting up GSM module:
 Sim800A is easy to use. It works well when we insert a 4G Airtel Sim. 3G sim dint work with this model.
 
 
